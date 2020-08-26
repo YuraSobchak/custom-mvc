@@ -2,7 +2,8 @@
 /public/hot
 /public/storage
 /storage/*.key
-/vendor
+/framework/vendor
+.DS_Store
 .env
 .editorconfig
 .gitattributes
